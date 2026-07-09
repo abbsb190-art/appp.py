@@ -1,0 +1,4 @@
+python-telegram-bot==8.1
+requests
+telebot
+pyTelegramBotAPI
